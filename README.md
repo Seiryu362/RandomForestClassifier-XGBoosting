@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Seiryu362/ml-burnout-productivity">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Seiryu362/RandomForestClassifier-XGBoosting/main">
   <img alt="Python" src="https://img.shields.io/badge/python-3.10+-blue.svg">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green.svg">
 </p>
