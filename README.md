@@ -99,7 +99,7 @@ This project has been tested on:
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/Seiryu362/ml-burnout-productivity.git
+git clone https://github.com/Seiryu362/RandomForestClassifier-XGBoosting.git
 ```
 
 2. Navigate to the project folder:
@@ -130,11 +130,11 @@ This is primarily an educational project and not currently open to active contri
 
 If you would like to contribute for learning purposes, feel free to fork the repository, make your changes, and submit a pull request. All contributions will be reviewed.
 
-For detailed guidelines refer to [CONTRIBUTE.md](https://github.com/Seiryu362/ml-burnout-productivity/blob/main/CONTRIBUTE.md)
+For detailed guidelines refer to [CONTRIBUTE.md](https://github.com/Seiryu362/RandomForestClassifier-XGBoosting/blob/main/CONTRIBUTE.md)
 
 ## Contact
 For feedback or just to say hi, feel free to reach out.
 
-See [CONTACT.md](https://github.com/Seiryu362/ml-burnout-productivity/blob/main/CONTACT.md)
+See [CONTACT.md](https://github.com/Seiryu362/RandomForestClassifier-XGBoosting/blob/main/CONTACT.md)
 
 [Back to Top](#Top)
