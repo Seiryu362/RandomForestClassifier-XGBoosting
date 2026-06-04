@@ -1,0 +1,28 @@
+# Data files
+*.csv
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+
+# PDF files
+*.pdf
+
+# Environment variables - NEVER commit this
+.env
+.env.*
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
